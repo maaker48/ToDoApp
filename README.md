@@ -22,7 +22,7 @@ Here you can see i added something into the app.
 When you are done with an task. tap the task 1 time to mark it done, The background will set the color to green.
 if you need to do something else with the task and you want to undone Done. tap again and it will get The undone collor.  
 
-<img src="https://github.com/maaker48/ToDoApp/blob/master/doc/todogroen" alt="SSToDo groen" width="200px">
+<img src="https://github.com/maaker48/ToDoApp/blob/master/doc/todogroen.jpeg" alt="SSToDo groen" width="200px">
 
 When you are done with the Task and whant to clear the task Press and Hold on the task.
 You will noticed it get removed of the ToDo chart.
