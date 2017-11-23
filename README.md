@@ -27,6 +27,7 @@ if you need to do something else with the task and you want to undone Done. tap 
 When you are done with the Task and whant to clear the task Press and Hold on the task.
 You will noticed it get removed of the ToDo chart.
 
-App created by Maaker48 A.K.A Stephan.
-For issus or anny feedback please contact
-graafs@hotmail.com
+App created by Maaker48 A.K.A Stephan.  
+For issus or anny feedback please contact  
+ 
+<a href="mailto:graafs@hotmail.com?Subject=ToDoApp" target="_top">Send Mail</a>
