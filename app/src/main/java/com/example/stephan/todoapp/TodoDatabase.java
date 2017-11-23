@@ -61,8 +61,6 @@ public class TodoDatabase extends SQLiteOpenHelper {
         return cursor;
     }
     public void insert(String item){
-
-        //String addItemstring = "INSERT INTO todos (title) VALUES('"+ inputnogwat +"')";
         ContentValues contentValues = new ContentValues();
         contentValues.put(KEY_TODO_TITLE, item);
         SQLiteDatabase db = instance.getWritableDatabase();

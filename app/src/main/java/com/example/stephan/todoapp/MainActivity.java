@@ -15,7 +15,6 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
     public Button bt_add;
     public EditText et_input;
-//    public TodoDatabase db;
     private TodoDatabase db;
     private TodoAdapter adapter;
     public ListView lvItems;
